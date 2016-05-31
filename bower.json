@@ -1,0 +1,17 @@
+{
+  "name": "angular-todo",
+  "homepage": "https://github.com/castle-c/angular-todo",
+  "authors": [
+    "Castle Crawford <nathanscottcrawford@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
